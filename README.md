@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhmtalib
 - 👀 I’m interested in Software Languages
 - 🌱 I’m currently learning Phyton and Assembly Language
-- 📫 ali.bahur@ozu.edu.tr
+- 📫 mehmetalibahur@gmail.com
 - Electrical and Electronics Engineering
 - Turkey
 
