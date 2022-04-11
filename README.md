@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhmtalib
 - 👀 I’m interested in Software Languages
-- 🌱 I’m currently learning Phyton and Assembly Language
+- 🌱 I’m currently learning Phyton and MATLAB
 - 📫 mehmetalibahur@gmail.com
 - Electrical and Electronics Engineering
 - Turkey
