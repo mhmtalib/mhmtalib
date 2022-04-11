@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Languages
 - 🌱 I’m currently learning Phyton and MATLAB
 - 📫 mehmetalibahur@gmail.com
-- Electrical and Electronics Engineering
+- Electrical and Electronics Engineer
 - Turkey
 
 <!---
